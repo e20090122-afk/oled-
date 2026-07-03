@@ -1,7 +1,7 @@
 {
-    "name": "pxt-oled-zh",
-    "version": "0.0.1",
-    "description": "Microbit 128x64 OLED 屏幕中文积木扩展驱动",
+    "name": "oled-zh-pro",
+    "version": "0.1.0",
+    "description": "基于显存缓冲区的 Microbit OLED 128x64 完整驱动",
     "dependencies": {
         "core": "*"
     },
