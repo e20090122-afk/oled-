@@ -1,0 +1,18 @@
+{
+    "name": "pxt-oled-zh",
+    "version": "0.0.1",
+    "description": "Microbit 128x64 OLED 屏幕中文积木扩展驱动",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "4.0.0"
+    }
+}
